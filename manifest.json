@@ -1,0 +1,11 @@
+{
+    "name": "ToDo List",
+    "version": "0.0.1",
+    "description": "A simple task list",
+    "browser_action": {
+        "default_title": "ToDo",
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+
+}
